@@ -21,3 +21,9 @@ of a sample web application using Selenium WebDriver.
 ## Files Included
 - login_navigation_test.py
 - Test_Execution_Report.txt
+## Enhancements
+- Explicit waits for reliability
+- Logging for execution tracking
+- Screenshot capture on failure
+- Modular single-file design
+
