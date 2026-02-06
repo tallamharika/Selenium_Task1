@@ -1,0 +1,27 @@
+TEST EXECUTION REPORT
+
+Company: CODTECH IT SOLUTIONS
+Intern Name: TALLAM HARIKA 
+Intern ID: CTIS5321
+Task: Selenium Task-1
+Tool Used: Selenium WebDriver
+Browser: Mozilla Firefox
+
+Test Case 1: Login Functionality
+Steps:
+1. Open browser
+2. Navigate to login page
+3. Enter valid username and password
+4. Click login button
+Result:
+Login successful
+Status:
+PASS
+
+Test Case 2: Navigation Functionality
+Steps:
+1. Click logout button after login
+Result:
+User navigated to login page
+Status:
+PASS
